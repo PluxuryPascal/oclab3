@@ -1,0 +1,5 @@
+GridSize=3
+WindowWidth=304
+WindowHeight=201
+BackgroundColor=0;0;255
+GridColor=255;0;0
