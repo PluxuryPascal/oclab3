@@ -1,5 +1,5 @@
 GridSize=3
-WindowWidth=1259
-WindowHeight=648
+WindowWidth=304
+WindowHeight=201
 BackgroundColor=252;12;175
 GridColor=85;255;0

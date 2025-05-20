@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "OClr3\\Source.cpp",
               "ToolTip": "C:\\Users\\Mihakulka\\Desktop\\\u0432\u044B\u0441\u0448\u0430\u044F \u0448\u043A\u043E\u043B\u0430 \u0440\u043E\u0444\u043B\u043E\u0432\\\u0432\u0442\u043E\u043A\u0443\u0441\\\u041E\u0421\\OClr3\\OClr3\\Source.cpp",
               "RelativeToolTip": "OClr3\\Source.cpp",
-              "ViewState": "AQIAABkCAAAAAAAAAAAAACICAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-10T17:08:26.339Z",
               "EditorCaption": ""
